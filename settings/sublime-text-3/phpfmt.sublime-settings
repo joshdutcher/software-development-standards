@@ -1,0 +1,14 @@
+{
+    "enable_auto_align": true,
+    "format_on_save": true,
+    "indent_with_space": true,
+    "only_order_use_clauses": true,
+    "passes":
+    [
+        "OnlyOrderUseClauses"
+    ],
+    "psr1": true,
+    "psr2": true,
+    "version": 4,
+    "php_bin": "/path/to/your/php/binary"
+}
