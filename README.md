@@ -13,7 +13,7 @@
 
 \[Company\]'s Development Standards ("the Standards") are intended to be a living set of requirements, able to iterate and evolve as needed. This repository exists to provide tracking of the Standards documents as they change over time and to provide an interface familiar to developers with which to request changes and make updates.
 
-[[Company]] as a technology company should be capable of quickly adapting to a changing environment, and as such the Standards are not intended to be a binding whitelist of the only acceptable languages, methods, or practices. [[Company]] is always open to considering emerging technologies or better ways of doing things if they are appropriate to our needs.
+\[Company\] as a technology company should be capable of quickly adapting to a changing environment, and as such the Standards are not intended to be a binding whitelist of the only acceptable languages, methods, or practices. \[Company\] is always open to considering emerging technologies or better ways of doing things if they are appropriate to our needs.
 
 ## Implementation
 
@@ -27,11 +27,11 @@ There are three facets to implementing these Standards:
 
 ## Contents
 
-**The bulk of [[Company]]'s Development Standards are spelled out in the [Style Guide](style_guide.md) and [Guiding Principles](guiding_principles.md) documents. Team processes are described in the [Processes](processes.md) document.**
+**The bulk of \[Company\]'s Development Standards are spelled out in the [Style Guide](style_guide.md) and [Guiding Principles](guiding_principles.md) documents. Team processes are described in the [Processes](processes.md) document.**
 
 ### [Style Guide](style_guide.md)
 
-The **[Style Guide](style_guide.md)** describes the technical coding standards we should attempt to follow as we develop software applications at [[Company]]. This primarily consists of existing industry standards, and in a few cases some less formalized style guides were adapted for [[Company]]'s use specifically.
+The **[Style Guide](style_guide.md)** describes the technical coding standards we should attempt to follow as we develop software applications at \[Company\]. This primarily consists of existing industry standards, and in a few cases some less formalized style guides were adapted for \[Company\]'s use specifically.
 
 ### [Guiding Principles](guiding_principles.md)
 
@@ -39,7 +39,7 @@ The **[Guiding Principles](guiding_principles.md)** describe the more philosophi
 
 ### [Processes](processes.md)
 
-The **[Processes](processes.md)** describe workflow processes followed by [[Company]] software engineers including Agile methodology and Git workflow.
+The **[Processes](processes.md)** describe workflow processes followed by \[Company\] software engineers including Agile methodology and Git workflow.
 
 ## Interacting with the Standards
 
