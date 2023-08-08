@@ -1,4 +1,4 @@
-# Company Development Standards - REST API Style Guide
+# \[Company\] Development Standards - REST API Style Guide
 
 REST APIs over HTTP are the most common channel of communication between applications
 
