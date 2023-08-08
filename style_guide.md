@@ -1,4 +1,4 @@
-# Company Development Standards - Style Guide
+# \[Company\] Development Standards - Style Guide
 
 The Style guide comprises what should be considered the standard coding elements that are required to ensure a high level of technical interoperability between shared code. This should allow employees to easily read and understand each others' code -- any developer familiar with the Standards should be able to work on any codebase which conforms to the Standards. We should write code which minimizes the time it takes someone else to understand it, including new employees.
 
