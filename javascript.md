@@ -1,5 +1,5 @@
 
-# Company Development Standards - JavaScript Code Conventions
+# \[Company\] Development Standards - JavaScript Code Conventions
 
 This is a set of coding conventions and rules for use in JavaScript programming. These standards are based on a document published by Douglas Crockford with minor variations, found at http://javascript.crockford.com/code.html
 
