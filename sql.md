@@ -1,4 +1,4 @@
-# Company Development Standards - SQL Syntax
+# \[Company\] Development Standards - SQL Syntax
 
 ### General SQL syntax
 * snake_case. Period.
