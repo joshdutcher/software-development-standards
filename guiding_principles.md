@@ -1,7 +1,7 @@
 
-# Company Development Standards - Guiding Principles
+# \[Company\] Development Standards - Guiding Principles
 
-The goal of Company's Guiding Principles for software development is to provide principles and patterns of software architecture to be followed by developers across different projects and languages. It is like a style guide but for software patterns and practices rather than specific languages; it is more philosophical and abstract in nature.
+The goal of \[Company\]'s Guiding Principles for software development is to provide principles and patterns of software architecture to be followed by developers across different projects and languages. It is like a style guide but for software patterns and practices rather than specific languages; it is more philosophical and abstract in nature.
 
 ### Vocabulary
 
@@ -10,13 +10,13 @@ Defining a common vocabulary is necessary to facilitate clear and useful communi
 * **Software Architecture** refers to the organization and structure of source code: classes, functions, variables, naming conventions, etc.
 * **Application Architecture** refers to the collection of systems necessary to run the entire application, e.g. MySql, Redis, php, external dependencies, etc.
 
-Company's Guiding Principles refer primarily to **Software Architecture**.
+\[Company\]'s Guiding Principles refer primarily to **Software Architecture**.
 
 ## Guiding Principles
 
 ### Object Oriented Programming
 
-Most of Company's guidelines naturally flow into or out of the concept of Object Oriented Programming (OOP). OOP separates blocks of code into self-contained objects which are designed to accomplish specific goals. This modularity achieves a number of principles.
+Most of \[Company\]'s guidelines naturally flow into or out of the concept of Object Oriented Programming (OOP). OOP separates blocks of code into self-contained objects which are designed to accomplish specific goals. This modularity achieves a number of principles.
 
 * **Separation of Concerns**<sup>[1](#source2)</sup>. Divide your application into distinct features with as little overlap in functionality as possible. OOP makes this simple, as each class and function is designed for a specific purpose.
 * **Single Responsibility principle**<sup>[1](#source2)</sup>. Each component or module should be responsible for only a specific feature or functionality, or aggregation of cohesive functionality. This is similar to the concept of Separation of Concerns and is made easy with OOP.
