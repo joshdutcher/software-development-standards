@@ -11,7 +11,7 @@
 
 ## Introduction
 
-[[Company]]'s Development Standards ("the Standards") are intended to be a living set of requirements, able to iterate and evolve as needed. This repository exists to provide tracking of the Standards documents as they change over time and to provide an interface familiar to developers with which to request changes and make updates.
+\[Company\]'s Development Standards ("the Standards") are intended to be a living set of requirements, able to iterate and evolve as needed. This repository exists to provide tracking of the Standards documents as they change over time and to provide an interface familiar to developers with which to request changes and make updates.
 
 [[Company]] as a technology company should be capable of quickly adapting to a changing environment, and as such the Standards are not intended to be a binding whitelist of the only acceptable languages, methods, or practices. [[Company]] is always open to considering emerging technologies or better ways of doing things if they are appropriate to our needs.
 
